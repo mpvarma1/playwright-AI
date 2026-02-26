@@ -9,3 +9,7 @@ console.log(process.arch);
 
 
 console.log("Node Version:", process.version);
+
+console.log(5==5.0)
+console.log(5===5.0)
+0==false
